@@ -1,0 +1,9 @@
+INFO: time: 1520279360.8560796 connect to ('127.0.0.1', 2000)
+DEBUG: time: 1520279367.8516726 <class 'ConnectionResetError'>: [WinError 10054] An existing connection was forcibly closed by the remote host
+INFO: time: 1520279370.30266 connect to ('127.0.0.1', 2000)
+INFO: time: 1520279428.141054 connect to ('127.0.0.1', 27)
+INFO: time: 1520279428.1565573 rgister sucsseful ('127.0.0.1', 27)
+INFO: time: 1520279433.2312584 server disconnect ('127.0.0.1', 27)
+INFO: time: 1520279572.5227404 connect to ('127.0.0.1', 27)
+INFO: time: 1520279572.5227404 rgister sucsseful ('127.0.0.1', 27)
+INFO: time: 1520279578.598897 server disconnect ('127.0.0.1', 27)

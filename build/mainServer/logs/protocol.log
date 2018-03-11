@@ -1,0 +1,38 @@
+INFO: time: 1520279143.4163537 recv_from: unknow data: {'act': 'register', 'name': 'chjx2ws66b', 'password': 'cawlqrbm2z'}
+INFO: time: 1520279143.4163537 send_to: chjx2ws66b data: OK register
+INFO: time: 1520279144.0258203 recv_from: chjx2ws66b data: {'act': 'set', 'folder': 'bcx7gw32ge', 'data': '3ojofuyko6'}
+INFO: time: 1520279144.0414174 send_to: chjx2ws66b data: ok set
+INFO: time: 1520279144.4320822 recv_from: chjx2ws66b data: {'act': 'get', 'folder': 'bcx7gw32ge'}
+INFO: time: 1520279144.4320822 send_to: chjx2ws66b data: 3ojofuyko6
+INFO: time: 1520279145.0415514 recv_from: chjx2ws66b data: {'act': 'new_group', 'name': '3ojofuyko6'}
+INFO: time: 1520279145.0415514 send_to: chjx2ws66b data: ok group created.
+INFO: time: 1520279145.6041162 recv_from: chjx2ws66b data: {'act': 'add_user', 'name': 'chjx2ws66b', 'group': '3ojofuyko6'}
+INFO: time: 1520279145.6041162 send_to: chjx2ws66b data: ok chjx2ws66b was add to group 3ojofuyko6
+INFO: time: 1520279146.1978934 recv_from: chjx2ws66b data: {'act': 'make_admin', 'name': 'chjx2ws66b', 'group': '3ojofuyko6'}
+INFO: time: 1520279146.2135215 send_to: chjx2ws66b data: ok chjx2ws66b is admin now
+INFO: time: 1520279146.7917423 recv_from: chjx2ws66b data: {'act': 'set_group', 'group': '3ojofuyko6', 'folder': 'test_set', 'data': 'good_get'}
+INFO: time: 1520279146.7917423 send_to: chjx2ws66b data: ok data set
+INFO: time: 1520279147.3386748 recv_from: chjx2ws66b data: {'act': 'get_group', 'group': '3ojofuyko6', 'folder': 'test_set'}
+INFO: time: 1520279147.3386748 send_to: chjx2ws66b data: good_get
+INFO: time: 1520279147.85432 recv_from: chjx2ws66b data: {'act': 'remove_user', 'name': 'chjx2ws66b', 'group': '3ojofuyko6'}
+INFO: time: 1520279147.85432 send_to: chjx2ws66b data: ok chjx2ws66b was remove from group 3ojofuyko6
+INFO: time: 1520279148.4481328 recv_from: chjx2ws66b data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1520279148.4481328 send_to: chjx2ws66b data: ok create bot
+INFO: time: 1520279148.995101 recv_from: chjx2ws66b data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1520279148.995101 send_to: chjx2ws66b data: ok commend adding
+INFO: time: 1520279149.5888786 recv_from: chjx2ws66b data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520279149.5888786 send_to: chjx2ws66b data: hello you how you doing?
+INFO: time: 1520279150.1514728 recv_from: chjx2ws66b data: {'act': 'sing_out'}
+INFO: time: 1520279150.1514728 send_to: unknow data: OK disconnect
+INFO: time: 1520279354.0782983 recv_from: unknow data: {'act': 'get_server_list'}
+INFO: time: 1520279354.0939584 send_to: unknow data: --set()
+INFO: time: 1520279360.3380208 recv_from: unknow data: {'act': 'server_register', 'port': '2000'}
+INFO: time: 1520279360.3380208 send_to: unknow data: start rgister prosses
+INFO: time: 1520279369.7844956 recv_from: unknow data: {'act': 'server_register', 'port': '2000'}
+INFO: time: 1520279369.7844956 send_to: unknow data: start rgister prosses
+INFO: time: 1520279383.0144722 recv_from: unknow data: {'act': 'get_server_list'}
+INFO: time: 1520279383.0144722 send_to: unknow data: --set()
+INFO: time: 1520279427.623928 recv_from: unknow data: {'act': 'server_register', 'port': '27', 'password': ''}
+INFO: time: 1520279427.639517 send_to: unknow data: start rgister prosses
+INFO: time: 1520279572.0068252 recv_from: unknow data: {'act': 'server_register', 'port': '27', 'password': ''}
+INFO: time: 1520279572.0068252 send_to: unknow data: start rgister prosses

